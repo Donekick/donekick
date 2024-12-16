@@ -1,4 +1,4 @@
-# Donekick Marketplace(https://donekick.com)
+# [Donekick Marketplace](https://donekick.com)
 
 ## Introduction
 Welcome to the official GitHub repository for **Donekick Marketplace**, an online platform dedicated to connecting footwear enthusiasts, buyers, and sellers in a secure, engaging, and innovative environment. This repository outlines the project's architecture, features, and development guidelines.
